@@ -1,27 +1,313 @@
 [
     {
-        "kategoria": "sztuka",
-        "pytanie": "Kto namalował obraz Mona Lisa?",
-        "kolor": "#f3f3f3"
+        "kategoria": "Geografia",
+        "pytanie": "Które miasto jest stolicą Kanady?",
+        "kolor": "#B0C3D9",
+        "ans1": "Toronto",
+        "ans2": "Vancouver",
+        "ans3": "Ottawa",
+        "ans4": "Montreal",
+        "correct": "Ottawa"
     },
     {
-        "kategoria": "sztuka",
-        "pytanie": "Kto namalował obraz Mona Lisa?",
-        "kolor": "#462475"
+        "kategoria": "Geografia",
+        "pytanie": "Który kontynent jest największy pod względem powierzchni?",
+        "kolor": "#B0C3D9",
+        "ans1": "Afryka",
+        "ans2": "Europa",
+        "ans3": "Azja",
+        "ans4": "Ameryka Północna",
+        "correct": "Azja"
     },
     {
-        "kategoria": "sztuka",
-        "pytanie": "Kto namalował obraz Mona Lisa?",
-        "kolor": "#f3f3f3"
+        "kategoria": "Geografia",
+        "pytanie": "Jakie morze leży na południe od Polski?",
+        "kolor": "#B0C3D9",
+        "ans1": "Morze Czarne",
+        "ans2": "Morze Bałtyckie",
+        "ans3": "Morze Północne",
+        "ans4": "Morze Śródziemne",
+        "correct": "Morze Czarne"
     },
     {
-        "kategoria": "sztuka",
-        "pytanie": "Kto namalował obraz Mona Lisa?",
-        "kolor": "#f3f3f3"
+        "kategoria": "Historia",
+        "pytanie": "W którym roku Polska wstąpiła do Unii Europejskiej?",
+        "kolor": "#4B69FF",
+        "ans1": "1999",
+        "ans2": "2001",
+        "ans3": "2004",
+        "ans4": "2007",
+        "correct": "2004"
     },
     {
-        "kategoria": "sztuka",
-        "pytanie": "Kto namalował obraz Mona Lisa?",
-        "kolor": "#f3f3f3"
+        "kategoria": "Historia",
+        "pytanie": "Kto był pierwszym królem Polski?",
+        "kolor": "#4B69FF",
+        "ans1": "Mieszko I",
+        "ans2": "Bolesław Chrobry",
+        "ans3": "Kazimierz Wielki",
+        "ans4": "Władysław Jagiełło",
+        "correct": "Bolesław Chrobry"
+    },
+    {
+        "kategoria": "Nauka",
+        "pytanie": "Jaki pierwiastek chemiczny ma symbol O?",
+        "kolor": "#B0C3D9",
+        "ans1": "Ozon",
+        "ans2": "Ołów",
+        "ans3": "Tlen",
+        "ans4": "Złoto",
+        "correct": "Tlen"
+    },
+    {
+        "kategoria": "Nauka",
+        "pytanie": "Ile planet znajduje się w Układzie Słonecznym?",
+        "kolor": "#B0C3D9",
+        "ans1": "7",
+        "ans2": "8",
+        "ans3": "9",
+        "ans4": "10",
+        "correct": "8"
+    },
+    {
+        "kategoria": "Sport",
+        "pytanie": "Ilu zawodników liczy drużyna piłkarska na boisku?",
+        "kolor": "#B0C3D9",
+        "ans1": "9",
+        "ans2": "10",
+        "ans3": "11",
+        "ans4": "12",
+        "correct": "11"
+    },
+    {
+        "kategoria": "Sport",
+        "pytanie": "W jakim kraju odbyły się Mistrzostwa Świata w piłce nożnej w 2014 roku?",
+        "kolor": "#4B69FF",
+        "ans1": "Niemcy",
+        "ans2": "Brazylia",
+        "ans3": "RPA",
+        "ans4": "Rosja",
+        "correct": "Brazylia"
+    },
+    {
+        "kategoria": "Kultura",
+        "pytanie": "Kto napisał „Pana Tadeusza”?",
+        "kolor": "#4B69FF",
+        "ans1": "Juliusz Słowacki",
+        "ans2": "Adam Mickiewicz",
+        "ans3": "Henryk Sienkiewicz",
+        "ans4": "Bolesław Prus",
+        "correct": "Adam Mickiewicz"
+    },
+    {
+        "kategoria": "Kultura",
+        "pytanie": "Jak nazywa się słynny paryski muzeum z Mona Lisą?",
+        "kolor": "#B0C3D9",
+        "ans1": "Orsay",
+        "ans2": "Luwr",
+        "ans3": "Pompidou",
+        "ans4": "Wersal",
+        "correct": "Luwr"
+    },
+    {
+        "kategoria": "Geografia",
+        "pytanie": "Jakie jest najwyższe pasmo górskie na świecie?",
+        "kolor": "#8847FF",
+        "ans1": "Alpy",
+        "ans2": "Andy",
+        "ans3": "Himalaje",
+        "ans4": "Kaukaz",
+        "correct": "Himalaje"
+    },
+    {
+        "kategoria": "Geografia",
+        "pytanie": "Przez które miasto przepływa rzeka Tyber?",
+        "kolor": "#8847FF",
+        "ans1": "Florencja",
+        "ans2": "Rzym",
+        "ans3": "Mediolan",
+        "ans4": "Wenecja",
+        "correct": "Rzym"
+    },
+    {
+        "kategoria": "Nauka",
+        "pytanie": "Jak nazywa się proces, w którym rośliny produkują tlen?",
+        "kolor": "#4B69FF",
+        "ans1": "Oddychanie",
+        "ans2": "Fermentacja",
+        "ans3": "Fotosynteza",
+        "ans4": "Transpiracja",
+        "correct": "Fotosynteza"
+    },
+    {
+        "kategoria": "Nauka",
+        "pytanie": "Która planeta ma najwięcej księżyców?",
+        "kolor": "#D32CE6",
+        "ans1": "Jowisz",
+        "ans2": "Saturn",
+        "ans3": "Uran",
+        "ans4": "Neptun",
+        "correct": "Saturn"
+    },
+    {
+        "kategoria": "Historia",
+        "pytanie": "Jak nazywał się pierwszy prezydent III RP?",
+        "kolor": "#8847FF",
+        "ans1": "Lech Wałęsa",
+        "ans2": "Aleksander Kwaśniewski",
+        "ans3": "Bronisław Komorowski",
+        "ans4": "Tadeusz Mazowiecki",
+        "correct": "Lech Wałęsa"
+    },
+    {
+        "kategoria": "Historia",
+        "pytanie": "W którym wieku miała miejsce bitwa pod Grunwaldem?",
+        "kolor": "#D32CE6",
+        "ans1": "XIII",
+        "ans2": "XIV",
+        "ans3": "XV",
+        "ans4": "XVI",
+        "correct": "XV"
+    },
+    {
+        "kategoria": "Sport",
+        "pytanie": "W jakim sporcie używa się terminu „hat-trick”?",
+        "kolor": "#4B69FF",
+        "ans1": "Tenis",
+        "ans2": "Koszykówka",
+        "ans3": "Piłka nożna",
+        "ans4": "Siatkówka",
+        "correct": "Piłka nożna"
+    },
+    {
+        "kategoria": "Sport",
+        "pytanie": "Ile metrów ma maraton?",
+        "kolor": "#EB4B4B",
+        "ans1": "40 000",
+        "ans2": "41 195",
+        "ans3": "42 000",
+        "ans4": "42 500",
+        "correct": "42 195"
+    },
+    {
+        "kategoria": "Kultura",
+        "pytanie": "Kto jest autorem obrazu „Guernica”?",
+        "kolor": "#D32CE6",
+        "ans1": "Salvador Dalí",
+        "ans2": "Pablo Picasso",
+        "ans3": "Claude Monet",
+        "ans4": "Vincent van Gogh",
+        "correct": "Pablo Picasso"
+    },
+    {
+        "kategoria": "Kultura",
+        "pytanie": "Jak nazywa się grecki bóg wojny?",
+        "kolor": "#8847FF",
+        "ans1": "Ares",
+        "ans2": "Zeus",
+        "ans3": "Apollo",
+        "ans4": "Hermes",
+        "correct": "Ares"
+    },
+    {
+        "kategoria": "Geografia",
+        "pytanie": "Jakie państwo ma najwięcej ludności na świecie?",
+        "kolor": "#4B69FF",
+        "ans1": "Indie",
+        "ans2": "USA",
+        "ans3": "Chiny",
+        "ans4": "Rosja",
+        "correct": "Indie"
+    },
+    {
+        "kategoria": "Geografia",
+        "pytanie": "Która pustynia jest największa na świecie?",
+        "kolor": "#D32CE6",
+        "ans1": "Sahara",
+        "ans2": "Gobi",
+        "ans3": "Kalahari",
+        "ans4": "Antarktyczna",
+        "correct": "Antarktyczna"
+    },
+    {
+        "kategoria": "Nauka",
+        "pytanie": "Jaka jest jednostka natężenia prądu?",
+        "kolor": "#8847FF",
+        "ans1": "Wolt",
+        "ans2": "Amper",
+        "ans3": "Ohm",
+        "ans4": "Wat",
+        "correct": "Amper"
+    },
+    {
+        "kategoria": "Nauka",
+        "pytanie": "Który gaz dominuje w atmosferze Ziemi?",
+        "kolor": "#4B69FF",
+        "ans1": "Tlen",
+        "ans2": "Azot",
+        "ans3": "Dwutlenek węgla",
+        "ans4": "Argon",
+        "correct": "Azot"
+    },
+    {
+        "kategoria": "Historia",
+        "pytanie": "Które imperium zbudowało Koloseum?",
+        "kolor": "#4B69FF",
+        "ans1": "Greckie",
+        "ans2": "Rzymskie",
+        "ans3": "Perskie",
+        "ans4": "Egipskie",
+        "correct": "Rzymskie"
+    },
+    {
+        "kategoria": "Historia",
+        "pytanie": "Jak nazywał się program reform w ZSRR zapoczątkowany przez Gorbaczowa?",
+        "kolor": "#FFD700",
+        "ans1": "Glasnost",
+        "ans2": "Pierestrojka",
+        "ans3": "NEP",
+        "ans4": "Kolektywizacja",
+        "correct": "Pierestrojka"
+    },
+    {
+        "kategoria": "Kultura",
+        "pytanie": "Z jakiego kraju pochodzi flamenco?",
+        "kolor": "#4B69FF",
+        "ans1": "Włochy",
+        "ans2": "Hiszpania",
+        "ans3": "Portugalia",
+        "ans4": "Francja",
+        "correct": "Hiszpania"
+    },
+    {
+        "kategoria": "Kultura",
+        "pytanie": "Który pisarz stworzył postać Sherlocka Holmesa?",
+        "kolor": "#8847FF",
+        "ans1": "Agatha Christie",
+        "ans2": "Arthur Conan Doyle",
+        "ans3": "Edgar Allan Poe",
+        "ans4": "Charles Dickens",
+        "correct": "Arthur Conan Doyle"
+    },
+    {
+        "kategoria": "Sport",
+        "pytanie": "W jakim kraju narodziło się judo?",
+        "kolor": "#8847FF",
+        "ans1": "Chiny",
+        "ans2": "Japonia",
+        "ans3": "Korea",
+        "ans4": "Tajlandia",
+        "correct": "Japonia"
+    },
+    {
+        "kategoria": "Geografia",
+        "pytanie": "Która rzeka jest najdłuższa na świecie?",
+        "kolor": "#EB4B4B",
+        "ans1": "Nil",
+        "ans2": "Amazonka",
+        "ans3": "Jangcy",
+        "ans4": "Missisipi",
+        "correct": "Nil"
     }
+    
 ]
